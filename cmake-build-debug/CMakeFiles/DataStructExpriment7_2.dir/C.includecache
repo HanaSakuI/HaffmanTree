@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HanaSaku-Iroha/CLionProjects/DataStructExpriment7_2/main.c
+stdio.h
+-
+malloc.h
+C:/Users/HanaSaku-Iroha/CLionProjects/DataStructExpriment7_2/malloc.h
+string.h
+C:/Users/HanaSaku-Iroha/CLionProjects/DataStructExpriment7_2/string.h
+
