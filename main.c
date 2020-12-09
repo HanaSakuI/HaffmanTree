@@ -11,7 +11,7 @@
  *   输入每一个结点的权值，输入-1结束。
  *   根据权值生成哈夫曼树
  *   给出每个结点的哈夫曼编码
- *  @author HanaSakuIroha
+ *  @author HanaSaku-Iroha
  */
 
 typedef int ElemType; //数据类型
